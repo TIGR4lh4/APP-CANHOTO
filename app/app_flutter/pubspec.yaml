@@ -1,0 +1,40 @@
+name: app_flutter
+description: "App Mobile - Canhoto NF conectado ao Flask"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Ícones estilo iOS
+  cupertino_icons: ^1.0.8
+
+  # Para consumir a API Flask (requisições HTTP)
+  http: ^1.2.2
+
+  # Para abrir a câmera e escolher imagens
+  image_picker: ^1.1.2
+
+  # ✅ Novo recorte de imagens (substitui image_cropper)
+  crop_your_image: ^1.1.0
+
+  # Para formatação de datas e internacionalização
+  intl: ^0.20.2
+
+  # ✅ Necessário para DatePicker, TimePicker, etc
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

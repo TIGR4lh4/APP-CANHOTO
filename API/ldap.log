@@ -1,0 +1,737 @@
+2025-09-02 17:46:59,463 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-02 17:46:59,463 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-02 17:46:59,466 [INFO]  * Restarting with stat
+2025-09-02 17:46:59,993 [WARNING]  * Debugger is active!
+2025-09-02 17:47:00,002 [INFO]  * Debugger PIN: 124-891-921
+2025-09-02 17:47:31,375 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-02 17:47:31,377 [INFO] 192.168.10.83 - - [02/Sep/2025 17:47:31] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-02 17:49:12,632 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-02 17:49:12,633 [INFO] 192.168.10.83 - - [02/Sep/2025 17:49:12] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 07:59:12,222 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 07:59:12,223 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 07:59:12,224 [INFO]  * Restarting with stat
+2025-09-03 07:59:12,633 [WARNING]  * Debugger is active!
+2025-09-03 07:59:12,639 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 08:00:57,165 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:00:57,166 [INFO] 192.168.10.83 - - [03/Sep/2025 08:00:57] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:01:06,883 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:01:06,883 [INFO] 192.168.10.83 - - [03/Sep/2025 08:01:06] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:01:12,398 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:01:12,399 [INFO] 192.168.10.83 - - [03/Sep/2025 08:01:12] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:14:50,027 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:14:50,027 [INFO] 192.168.10.83 - - [03/Sep/2025 08:14:50] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:18:02,809 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:18:02,810 [INFO] 192.168.10.83 - - [03/Sep/2025 08:18:02] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:18:10,500 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:18:10,501 [INFO] 192.168.10.83 - - [03/Sep/2025 08:18:10] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:18:19,557 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:18:19,558 [INFO] 192.168.10.83 - - [03/Sep/2025 08:18:19] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:18:21,032 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:18:21,033 [INFO] 192.168.10.83 - - [03/Sep/2025 08:18:21] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:18:24,325 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:18:24,326 [INFO] 192.168.10.83 - - [03/Sep/2025 08:18:24] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:26:54,455 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:26:54,456 [INFO] 192.168.10.83 - - [03/Sep/2025 08:26:54] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:27:29,411 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:27:29,411 [INFO] 192.168.10.83 - - [03/Sep/2025 08:27:29] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:27:30,461 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:27:30,462 [INFO] 192.168.10.83 - - [03/Sep/2025 08:27:30] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:27:31,009 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:27:31,010 [INFO] 192.168.10.83 - - [03/Sep/2025 08:27:31] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:27:40,246 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:27:40,246 [INFO] 192.168.10.83 - - [03/Sep/2025 08:27:40] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:29:45,545 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:29:45,546 [INFO] 192.168.10.83 - - [03/Sep/2025 08:29:45] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:32:24,255 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:32:24,256 [INFO] 192.168.10.83 - - [03/Sep/2025 08:32:24] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:33:56,987 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 08:33:57,084 [INFO]  * Restarting with stat
+2025-09-03 08:33:57,583 [WARNING]  * Debugger is active!
+2025-09-03 08:33:57,592 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 08:34:07,896 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 08:34:07,896 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 08:34:07,898 [INFO]  * Restarting with stat
+2025-09-03 08:34:08,304 [WARNING]  * Debugger is active!
+2025-09-03 08:34:08,311 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 08:34:41,811 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:34:41,812 [INFO] 192.168.10.83 - - [03/Sep/2025 08:34:41] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:34:42,056 [INFO] 192.168.10.83 - - [03/Sep/2025 08:34:42] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:34:53,703 [INFO] 192.168.10.83 - - [03/Sep/2025 08:34:53] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:38:12,087 [INFO] 192.168.10.83 - - [03/Sep/2025 08:38:12] "[33mPOST /nf/save HTTP/1.1[0m" 404 -
+2025-09-03 08:42:20,332 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:42:20,333 [INFO] 192.168.10.83 - - [03/Sep/2025 08:42:20] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:42:20,562 [INFO] 192.168.10.83 - - [03/Sep/2025 08:42:20] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:43:29,065 [INFO] 192.168.10.83 - - [03/Sep/2025 08:43:29] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:44:22,072 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:44:22,072 [INFO] 192.168.10.83 - - [03/Sep/2025 08:44:22] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:44:22,278 [INFO] 192.168.10.83 - - [03/Sep/2025 08:44:22] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:44:35,673 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:44:35,674 [INFO] 192.168.10.83 - - [03/Sep/2025 08:44:35] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:46:03,371 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:46:03,372 [INFO] 192.168.10.83 - - [03/Sep/2025 08:46:03] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:46:03,589 [INFO] 192.168.10.83 - - [03/Sep/2025 08:46:03] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:46:19,563 [INFO] 192.168.10.83 - - [03/Sep/2025 08:46:19] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:46:56,443 [INFO] 192.168.10.83 - - [03/Sep/2025 08:46:56] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:48:59,949 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:48:59,950 [INFO] 192.168.10.83 - - [03/Sep/2025 08:48:59] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 08:49:06,958 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:49:06,959 [INFO] 192.168.10.83 - - [03/Sep/2025 08:49:06] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:49:07,171 [INFO] 192.168.10.83 - - [03/Sep/2025 08:49:07] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:49:13,065 [INFO] 192.168.10.83 - - [03/Sep/2025 08:49:13] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:52:11,203 [INFO] 192.168.10.83 - - [03/Sep/2025 08:52:11] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:54:06,219 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:54:06,220 [INFO] 192.168.10.83 - - [03/Sep/2025 08:54:06] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:54:06,346 [INFO] 192.168.10.83 - - [03/Sep/2025 08:54:06] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:54:12,826 [INFO] 192.168.10.83 - - [03/Sep/2025 08:54:12] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:54:23,431 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 08:54:23,500 [INFO]  * Restarting with stat
+2025-09-03 08:54:24,006 [WARNING]  * Debugger is active!
+2025-09-03 08:54:24,014 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 08:54:25,034 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 08:54:25,111 [INFO]  * Restarting with stat
+2025-09-03 08:54:25,607 [WARNING]  * Debugger is active!
+2025-09-03 08:54:25,615 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 08:55:05,049 [INFO] 192.168.10.83 - - [03/Sep/2025 08:55:05] "POST /upload HTTP/1.1" 200 -
+2025-09-03 08:56:20,419 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 08:56:20,420 [INFO] 192.168.10.83 - - [03/Sep/2025 08:56:20] "POST /login HTTP/1.1" 200 -
+2025-09-03 08:56:20,681 [INFO] 192.168.10.83 - - [03/Sep/2025 08:56:20] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 08:56:26,600 [INFO] 192.168.10.83 - - [03/Sep/2025 08:56:26] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 08:58:26,268 [INFO] 192.168.10.83 - - [03/Sep/2025 08:58:26] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:03:31,293 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:03:31,294 [INFO] 192.168.10.83 - - [03/Sep/2025 09:03:31] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:03:31,577 [INFO] 192.168.10.83 - - [03/Sep/2025 09:03:31] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:03:37,451 [INFO] 192.168.10.83 - - [03/Sep/2025 09:03:37] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:07:10,827 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:07:10,827 [INFO] 192.168.10.83 - - [03/Sep/2025 09:07:10] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:07:11,095 [INFO] 192.168.10.83 - - [03/Sep/2025 09:07:11] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:07:16,656 [INFO] 192.168.10.83 - - [03/Sep/2025 09:07:16] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:16:27,852 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:16:27,912 [INFO]  * Restarting with stat
+2025-09-03 09:16:28,402 [WARNING]  * Debugger is active!
+2025-09-03 09:16:28,409 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:16:28,425 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:16:28,502 [INFO]  * Restarting with stat
+2025-09-03 09:16:28,917 [WARNING]  * Debugger is active!
+2025-09-03 09:16:28,924 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:16:29,947 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:16:30,002 [INFO]  * Restarting with stat
+2025-09-03 09:16:30,467 [WARNING]  * Debugger is active!
+2025-09-03 09:16:30,474 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:20:11,971 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:20:11,974 [INFO] 192.168.10.83 - - [03/Sep/2025 09:20:11] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:20:12,216 [INFO] 192.168.10.83 - - [03/Sep/2025 09:20:12] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:20:18,543 [INFO] 192.168.10.83 - - [03/Sep/2025 09:20:18] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:20:56,469 [INFO] 192.168.10.83 - - [03/Sep/2025 09:20:56] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 09:24:09,502 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:24:09,557 [INFO]  * Restarting with stat
+2025-09-03 09:24:10,057 [WARNING]  * Debugger is active!
+2025-09-03 09:24:10,064 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:24:10,081 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:24:10,131 [INFO]  * Restarting with stat
+2025-09-03 09:24:10,568 [WARNING]  * Debugger is active!
+2025-09-03 09:24:10,575 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:24:14,671 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 09:24:14,672 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 09:24:14,673 [INFO]  * Restarting with stat
+2025-09-03 09:24:15,086 [WARNING]  * Debugger is active!
+2025-09-03 09:24:15,093 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:27:00,996 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:27:00,997 [INFO] 192.168.10.83 - - [03/Sep/2025 09:27:00] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:27:01,237 [INFO] 192.168.10.83 - - [03/Sep/2025 09:27:01] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:27:08,148 [INFO] 192.168.10.83 - - [03/Sep/2025 09:27:08] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:30:13,823 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:30:13,878 [INFO]  * Restarting with stat
+2025-09-03 09:30:14,313 [WARNING]  * Debugger is active!
+2025-09-03 09:30:14,320 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:30:48,984 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:30:48,986 [INFO] 192.168.10.83 - - [03/Sep/2025 09:30:48] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:30:49,255 [INFO] 192.168.10.83 - - [03/Sep/2025 09:30:49] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:30:56,261 [INFO] 192.168.10.83 - - [03/Sep/2025 09:30:56] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:31:15,905 [INFO] 192.168.10.83 - - [03/Sep/2025 09:31:15] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 09:42:32,109 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:42:32,162 [INFO]  * Restarting with stat
+2025-09-03 09:42:32,628 [WARNING]  * Debugger is active!
+2025-09-03 09:42:32,635 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:42:34,664 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:42:34,722 [INFO]  * Restarting with stat
+2025-09-03 09:42:35,155 [WARNING]  * Debugger is active!
+2025-09-03 09:42:35,161 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:42:36,179 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:42:36,242 [INFO]  * Restarting with stat
+2025-09-03 09:42:36,649 [WARNING]  * Debugger is active!
+2025-09-03 09:42:36,656 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:44:20,147 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:44:20,206 [INFO]  * Restarting with stat
+2025-09-03 09:44:20,640 [WARNING]  * Debugger is active!
+2025-09-03 09:44:20,646 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:44:25,973 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 09:44:25,973 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 09:44:25,974 [INFO]  * Restarting with stat
+2025-09-03 09:44:26,386 [WARNING]  * Debugger is active!
+2025-09-03 09:44:26,393 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:44:58,672 [ERROR] ❌ Erro de conexão LDAP: automatic bind not successful - invalidCredentials - Usuário: admin
+2025-09-03 09:44:58,817 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:44:58,818 [INFO] 192.168.10.83 - - [03/Sep/2025 09:44:58] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-09-03 09:45:00,908 [INFO] ✅ Login ADMIN local OK
+2025-09-03 09:45:00,973 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:45:00,974 [INFO] 192.168.10.83 - - [03/Sep/2025 09:45:00] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:45:01,221 [INFO] 192.168.10.83 - - [03/Sep/2025 09:45:01] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:45:06,656 [INFO] 192.168.10.83 - - [03/Sep/2025 09:45:06] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:45:22,993 [ERROR] ❌ Erro ao salvar no banco: 1054 (42S22): Unknown column 'DataCadastro' in 'INSERT INTO'
+2025-09-03 09:45:22,995 [INFO] 192.168.10.83 - - [03/Sep/2025 09:45:22] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 09:53:11,991 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 09:53:12,067 [INFO]  * Restarting with stat
+2025-09-03 09:53:12,535 [WARNING]  * Debugger is active!
+2025-09-03 09:53:12,543 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 09:53:38,985 [INFO] ✅ Login ADMIN local OK
+2025-09-03 09:53:39,139 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 09:53:39,140 [INFO] 192.168.10.83 - - [03/Sep/2025 09:53:39] "POST /login HTTP/1.1" 200 -
+2025-09-03 09:53:39,405 [INFO] 192.168.10.83 - - [03/Sep/2025 09:53:39] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 09:53:44,683 [INFO] 192.168.10.83 - - [03/Sep/2025 09:53:44] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 09:54:07,099 [ERROR] ❌ Erro ao salvar no banco: 1054 (42S22): Unknown column 'DataCadastro' in 'INSERT INTO'
+2025-09-03 09:54:07,101 [INFO] 192.168.10.83 - - [03/Sep/2025 09:54:07] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 09:56:47,663 [INFO] 192.168.10.83 - - [03/Sep/2025 09:56:47] "GET /nf/87923/22 HTTP/1.1" 200 -
+2025-09-03 10:00:48,960 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:00:49,021 [INFO]  * Restarting with stat
+2025-09-03 10:00:49,454 [WARNING]  * Debugger is active!
+2025-09-03 10:00:49,461 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:00:50,488 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:00:50,548 [INFO]  * Restarting with stat
+2025-09-03 10:00:50,999 [WARNING]  * Debugger is active!
+2025-09-03 10:00:51,008 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:01:40,535 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:01:40,705 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:01:40,706 [INFO] 192.168.10.83 - - [03/Sep/2025 10:01:40] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:01:40,945 [INFO] 192.168.10.83 - - [03/Sep/2025 10:01:40] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:01:47,030 [INFO] 192.168.10.83 - - [03/Sep/2025 10:01:47] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:02:08,712 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFId' doesn't have a default value
+2025-09-03 10:02:08,717 [INFO] 192.168.10.83 - - [03/Sep/2025 10:02:08] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:04:33,493 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFNFNro' doesn't have a default value
+2025-09-03 10:04:33,495 [INFO] 192.168.10.83 - - [03/Sep/2025 10:04:33] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:06:30,999 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:06:31,002 [INFO] 192.168.10.83 - - [03/Sep/2025 10:06:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:07:43,978 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:07:43,981 [INFO] 192.168.10.83 - - [03/Sep/2025 10:07:43] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:13:08,812 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:13:08,879 [INFO]  * Restarting with stat
+2025-09-03 10:13:09,350 [WARNING]  * Debugger is active!
+2025-09-03 10:13:09,358 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:13:10,383 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:13:10,458 [INFO]  * Restarting with stat
+2025-09-03 10:13:10,933 [WARNING]  * Debugger is active!
+2025-09-03 10:13:10,939 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:14:00,082 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:14:00,200 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:14:00,201 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:00] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:14:00,512 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:00] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:14:06,849 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:06] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:14:17,644 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:17] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:14:18,479 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:18] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:14:19,176 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:19] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:14:19,771 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:19] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:14:33,166 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:33] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:14:40,872 [INFO] 192.168.10.83 - - [03/Sep/2025 10:14:40] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:15:03,886 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 10:15:03,886 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 10:15:03,888 [INFO]  * Restarting with stat
+2025-09-03 10:15:04,295 [WARNING]  * Debugger is active!
+2025-09-03 10:15:04,301 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:15:07,657 [INFO] 192.168.10.83 - - [03/Sep/2025 10:15:07] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:16:22,692 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:16:22,752 [INFO]  * Restarting with stat
+2025-09-03 10:16:23,233 [WARNING]  * Debugger is active!
+2025-09-03 10:16:23,240 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:16:24,175 [INFO] 192.168.10.83 - - [03/Sep/2025 10:16:24] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:16:25,193 [INFO] 192.168.10.83 - - [03/Sep/2025 10:16:25] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:17:08,519 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:17:08,580 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:17:08,581 [INFO] 192.168.10.83 - - [03/Sep/2025 10:17:08] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:17:08,842 [INFO] 192.168.10.83 - - [03/Sep/2025 10:17:08] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:17:14,286 [INFO] 192.168.10.83 - - [03/Sep/2025 10:17:14] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 10:17:48,658 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:17:48,721 [INFO]  * Restarting with stat
+2025-09-03 10:17:49,218 [WARNING]  * Debugger is active!
+2025-09-03 10:17:49,227 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:17:50,678 [INFO] 192.168.10.83 - - [03/Sep/2025 10:17:50] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:18:16,979 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:18:16,981 [INFO] 192.168.10.83 - - [03/Sep/2025 10:18:16] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:20:33,017 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:20:33,079 [INFO]  * Restarting with stat
+2025-09-03 10:20:33,579 [WARNING]  * Debugger is active!
+2025-09-03 10:20:33,586 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:20:36,616 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtEmissao' doesn't have a default value
+2025-09-03 10:20:36,618 [INFO] 192.168.10.83 - - [03/Sep/2025 10:20:36] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:21:53,826 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtRecebimento' doesn't have a default value
+2025-09-03 10:21:53,828 [INFO] 192.168.10.83 - - [03/Sep/2025 10:21:53] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:24:18,876 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtRecebimento' doesn't have a default value
+2025-09-03 10:24:18,879 [INFO] 192.168.10.83 - - [03/Sep/2025 10:24:18] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:25:06,526 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:25:06,599 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:25:06,600 [INFO] 192.168.10.83 - - [03/Sep/2025 10:25:06] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:25:06,843 [INFO] 192.168.10.83 - - [03/Sep/2025 10:25:06] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:25:11,927 [INFO] 192.168.10.83 - - [03/Sep/2025 10:25:11] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:31:40,941 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:31:41,016 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:31:41,018 [INFO] 192.168.10.83 - - [03/Sep/2025 10:31:41] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:31:41,263 [INFO] 192.168.10.83 - - [03/Sep/2025 10:31:41] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:31:46,002 [INFO] 192.168.10.83 - - [03/Sep/2025 10:31:46] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:32:07,226 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtRecebimento' doesn't have a default value
+2025-09-03 10:32:07,228 [INFO] 192.168.10.83 - - [03/Sep/2025 10:32:07] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:32:27,227 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 10:32:27,228 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 10:32:27,229 [INFO]  * Restarting with stat
+2025-09-03 10:32:27,638 [WARNING]  * Debugger is active!
+2025-09-03 10:32:27,645 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:33:45,049 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:33:45,103 [INFO]  * Restarting with stat
+2025-09-03 10:33:45,556 [WARNING]  * Debugger is active!
+2025-09-03 10:33:45,563 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:33:52,609 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:33:52,658 [INFO]  * Restarting with stat
+2025-09-03 10:37:28,913 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 10:37:28,913 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 10:37:28,914 [INFO]  * Restarting with stat
+2025-09-03 10:37:29,330 [WARNING]  * Debugger is active!
+2025-09-03 10:37:29,337 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:37:47,842 [INFO] 192.168.10.83 - - [03/Sep/2025 10:37:47] "[33mGET /nf/67923/22 HTTP/1.1[0m" 404 -
+2025-09-03 10:38:28,682 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:38:28,792 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:38:28,792 [INFO] 192.168.10.83 - - [03/Sep/2025 10:38:28] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:38:29,035 [INFO] 192.168.10.83 - - [03/Sep/2025 10:38:29] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:38:34,132 [INFO] 192.168.10.83 - - [03/Sep/2025 10:38:34] "[33mGET /nf/67923/22 HTTP/1.1[0m" 404 -
+2025-09-03 10:41:10,419 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:41:10,470 [INFO]  * Restarting with stat
+2025-09-03 10:41:10,897 [WARNING]  * Debugger is active!
+2025-09-03 10:41:10,904 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:41:44,513 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:41:44,652 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:41:44,653 [INFO] 192.168.10.83 - - [03/Sep/2025 10:41:44] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:41:44,891 [INFO] 192.168.10.83 - - [03/Sep/2025 10:41:44] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:41:51,546 [INFO] 192.168.10.83 - - [03/Sep/2025 10:41:51] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:42:15,450 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFNomeUsuario' doesn't have a default value
+2025-09-03 10:42:15,452 [INFO] 192.168.10.83 - - [03/Sep/2025 10:42:15] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:43:17,490 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtCadastro' doesn't have a default value
+2025-09-03 10:43:17,495 [INFO] 192.168.10.83 - - [03/Sep/2025 10:43:17] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:45:23,190 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:45:23,244 [INFO]  * Restarting with stat
+2025-09-03 10:45:23,727 [WARNING]  * Debugger is active!
+2025-09-03 10:45:23,735 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:45:28,214 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFEmpresaNome' doesn't have a default value
+2025-09-03 10:45:28,223 [INFO] 192.168.10.83 - - [03/Sep/2025 10:45:28] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:47:09,213 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:47:09,281 [INFO]  * Restarting with stat
+2025-09-03 10:47:09,733 [WARNING]  * Debugger is active!
+2025-09-03 10:47:09,740 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:47:11,028 [ERROR] ❌ Erro ao salvar no banco: 1048 (23000): Column 'CanhotoNFSerieNF' cannot be null
+2025-09-03 10:47:11,031 [INFO] 192.168.10.83 - - [03/Sep/2025 10:47:11] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:49:14,295 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:49:14,348 [INFO]  * Restarting with stat
+2025-09-03 10:49:14,774 [WARNING]  * Debugger is active!
+2025-09-03 10:49:14,781 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:49:15,805 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:49:15,874 [INFO]  * Restarting with stat
+2025-09-03 10:49:16,310 [WARNING]  * Debugger is active!
+2025-09-03 10:49:16,316 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:49:18,077 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:49:18,079 [INFO] 192.168.10.83 - - [03/Sep/2025 10:49:18] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:49:38,460 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:49:38,529 [INFO]  * Restarting with stat
+2025-09-03 10:49:38,973 [WARNING]  * Debugger is active!
+2025-09-03 10:49:38,980 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:49:44,507 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 10:49:44,507 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 10:49:44,508 [INFO]  * Restarting with stat
+2025-09-03 10:49:44,924 [WARNING]  * Debugger is active!
+2025-09-03 10:49:44,930 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:50:15,507 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:50:15,646 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:50:15,648 [INFO] 192.168.10.83 - - [03/Sep/2025 10:50:15] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:50:15,900 [INFO] 192.168.10.83 - - [03/Sep/2025 10:50:15] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:50:20,885 [INFO] 192.168.10.83 - - [03/Sep/2025 10:50:20] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:50:46,471 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:50:46,474 [INFO] 192.168.10.83 - - [03/Sep/2025 10:50:46] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:53:30,094 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:53:30,154 [INFO]  * Restarting with stat
+2025-09-03 10:53:30,579 [WARNING]  * Debugger is active!
+2025-09-03 10:53:30,586 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:53:33,618 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:53:33,674 [INFO]  * Restarting with stat
+2025-09-03 10:53:34,139 [WARNING]  * Debugger is active!
+2025-09-03 10:53:34,146 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:54:28,875 [INFO] ✅ Login ADMIN local OK
+2025-09-03 10:54:29,015 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 10:54:29,016 [INFO] 192.168.10.83 - - [03/Sep/2025 10:54:29] "POST /login HTTP/1.1" 200 -
+2025-09-03 10:54:29,238 [INFO] 192.168.10.83 - - [03/Sep/2025 10:54:29] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 10:54:36,864 [INFO] 192.168.10.83 - - [03/Sep/2025 10:54:36] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 10:55:00,434 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:55:00,436 [INFO] 192.168.10.83 - - [03/Sep/2025 10:55:00] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:57:22,263 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:57:22,315 [INFO]  * Restarting with stat
+2025-09-03 10:57:22,762 [WARNING]  * Debugger is active!
+2025-09-03 10:57:22,769 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:57:23,790 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:57:23,842 [INFO]  * Restarting with stat
+2025-09-03 10:57:24,311 [WARNING]  * Debugger is active!
+2025-09-03 10:57:24,318 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:57:27,770 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 10:57:27,772 [INFO] 192.168.10.83 - - [03/Sep/2025 10:57:27] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 10:58:47,739 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 10:58:47,814 [INFO]  * Restarting with stat
+2025-09-03 10:58:48,238 [WARNING]  * Debugger is active!
+2025-09-03 10:58:48,246 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 10:58:59,507 [INFO] 192.168.10.83 - - [03/Sep/2025 10:58:59] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-09-03 11:02:14,658 [INFO] 192.168.10.83 - - [03/Sep/2025 11:02:14] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-09-03 11:02:24,523 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 11:02:24,524 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 11:02:24,525 [INFO]  * Restarting with stat
+2025-09-03 11:02:24,930 [WARNING]  * Debugger is active!
+2025-09-03 11:02:24,937 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:03:03,495 [INFO] ✅ Login ADMIN local OK
+2025-09-03 11:03:03,662 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 11:03:03,663 [INFO] 192.168.10.83 - - [03/Sep/2025 11:03:03] "POST /login HTTP/1.1" 200 -
+2025-09-03 11:03:03,935 [INFO] 192.168.10.83 - - [03/Sep/2025 11:03:03] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 11:03:08,789 [INFO] 192.168.10.83 - - [03/Sep/2025 11:03:08] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 11:03:32,489 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFClienteId' doesn't have a default value
+2025-09-03 11:03:32,490 [INFO] 192.168.10.83 - - [03/Sep/2025 11:03:32] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:04:39,504 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:04:39,557 [INFO]  * Restarting with stat
+2025-09-03 11:04:40,057 [WARNING]  * Debugger is active!
+2025-09-03 11:04:40,064 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:04:43,040 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFSerieNF' doesn't have a default value
+2025-09-03 11:04:43,042 [INFO] 192.168.10.83 - - [03/Sep/2025 11:04:43] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:05:00,204 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:05:00,275 [INFO]  * Restarting with stat
+2025-09-03 11:05:00,693 [WARNING]  * Debugger is active!
+2025-09-03 11:05:00,699 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:05:01,912 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFClienteId' doesn't have a default value
+2025-09-03 11:05:01,915 [INFO] 192.168.10.83 - - [03/Sep/2025 11:05:01] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:08:24,098 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFClienteNome' doesn't have a default value
+2025-09-03 11:08:24,100 [INFO] 192.168.10.83 - - [03/Sep/2025 11:08:24] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:09:52,327 [INFO] 192.168.10.83 - - [03/Sep/2025 11:09:52] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 11:10:14,258 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtCadastro' doesn't have a default value
+2025-09-03 11:10:14,260 [INFO] 192.168.10.83 - - [03/Sep/2025 11:10:14] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:13:11,109 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:13:11,164 [INFO]  * Restarting with stat
+2025-09-03 11:13:11,619 [WARNING]  * Debugger is active!
+2025-09-03 11:13:11,626 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:13:12,647 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:13:12,716 [INFO]  * Restarting with stat
+2025-09-03 11:13:13,193 [WARNING]  * Debugger is active!
+2025-09-03 11:13:13,203 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:13:14,237 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:13:14,356 [INFO]  * Restarting with stat
+2025-09-03 11:13:14,767 [WARNING]  * Debugger is active!
+2025-09-03 11:13:14,773 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:13:17,209 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFEmpresaNome' doesn't have a default value
+2025-09-03 11:13:17,211 [INFO] 192.168.10.83 - - [03/Sep/2025 11:13:17] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:14:31,157 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFEmpresaId' doesn't have a default value
+2025-09-03 11:14:31,159 [INFO] 192.168.10.83 - - [03/Sep/2025 11:14:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:17:10,763 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:17:10,820 [INFO]  * Restarting with stat
+2025-09-03 11:17:11,258 [WARNING]  * Debugger is active!
+2025-09-03 11:17:11,265 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:17:12,289 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:17:12,374 [INFO]  * Restarting with stat
+2025-09-03 11:17:12,799 [WARNING]  * Debugger is active!
+2025-09-03 11:17:12,806 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:17:14,200 [ERROR] ❌ Erro ao buscar dados da NF: 1054 (42S22): Unknown column 'n.ClienteId' in 'SELECT'
+2025-09-03 11:17:14,238 [ERROR] ❌ Erro ao salvar no banco: 1048 (23000): Column 'CanhotoNFDtCadastro' cannot be null
+2025-09-03 11:17:14,240 [INFO] 192.168.10.83 - - [03/Sep/2025 11:17:14] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 11:18:43,254 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:18:43,313 [INFO]  * Restarting with stat
+2025-09-03 11:18:43,782 [WARNING]  * Debugger is active!
+2025-09-03 11:18:43,789 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:18:51,279 [INFO] 192.168.10.83 - - [03/Sep/2025 11:18:51] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-09-03 11:20:42,299 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 11:20:42,361 [INFO]  * Restarting with stat
+2025-09-03 11:20:42,784 [WARNING]  * Debugger is active!
+2025-09-03 11:20:42,791 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:20:44,154 [INFO] 192.168.10.83 - - [03/Sep/2025 11:20:44] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-09-03 11:20:53,843 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 11:20:53,843 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 11:20:53,844 [INFO]  * Restarting with stat
+2025-09-03 11:20:54,252 [WARNING]  * Debugger is active!
+2025-09-03 11:20:54,258 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:21:32,138 [INFO] ✅ Login ADMIN local OK
+2025-09-03 11:21:32,280 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 11:21:32,281 [INFO] 192.168.10.83 - - [03/Sep/2025 11:21:32] "POST /login HTTP/1.1" 200 -
+2025-09-03 11:21:32,484 [INFO] 192.168.10.83 - - [03/Sep/2025 11:21:32] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 11:21:38,642 [INFO] 192.168.10.83 - - [03/Sep/2025 11:21:38] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 11:22:00,482 [INFO] 192.168.10.83 - - [03/Sep/2025 11:22:00] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-09-03 11:24:26,371 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 11:24:26,371 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 11:24:26,372 [INFO]  * Restarting with stat
+2025-09-03 11:24:26,799 [WARNING]  * Debugger is active!
+2025-09-03 11:24:26,807 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 11:25:00,592 [INFO] ✅ Login ADMIN local OK
+2025-09-03 11:25:00,726 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 11:25:00,727 [INFO] 192.168.10.83 - - [03/Sep/2025 11:25:00] "POST /login HTTP/1.1" 200 -
+2025-09-03 11:25:00,956 [INFO] 192.168.10.83 - - [03/Sep/2025 11:25:00] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 11:25:05,901 [INFO] 192.168.10.83 - - [03/Sep/2025 11:25:05] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 11:25:24,918 [INFO] 192.168.10.83 - - [03/Sep/2025 11:25:24] "POST /upload HTTP/1.1" 200 -
+2025-09-03 11:25:31,895 [INFO] 192.168.10.83 - - [03/Sep/2025 11:25:31] "[33mPOST /nf/save HTTP/1.1[0m" 404 -
+2025-09-03 13:05:10,186 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:05:10,197 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 13:05:10,198 [INFO] 192.168.10.83 - - [03/Sep/2025 13:05:10] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:05:10,807 [INFO] 192.168.10.83 - - [03/Sep/2025 13:05:10] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 13:05:17,299 [INFO] 192.168.10.83 - - [03/Sep/2025 13:05:17] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 13:05:26,163 [INFO] 192.168.10.83 - - [03/Sep/2025 13:05:26] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 13:06:12,971 [INFO] 192.168.10.83 - - [03/Sep/2025 13:06:12] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 13:06:23,732 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 13:06:23,732 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 13:06:23,733 [INFO]  * Restarting with stat
+2025-09-03 13:06:24,156 [WARNING]  * Debugger is active!
+2025-09-03 13:06:24,163 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:06:25,709 [INFO] 192.168.10.83 - - [03/Sep/2025 13:06:25] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 13:08:27,400 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:08:27,439 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 13:08:27,440 [INFO] 192.168.10.83 - - [03/Sep/2025 13:08:27] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:08:27,668 [INFO] 192.168.10.83 - - [03/Sep/2025 13:08:27] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 13:08:47,012 [INFO] 192.168.10.83 - - [03/Sep/2025 13:08:47] "[35m[1mGET /nf/67923/22 HTTP/1.1[0m" 500 -
+2025-09-03 13:10:17,509 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 13:10:17,561 [INFO]  * Restarting with stat
+2025-09-03 13:10:17,997 [WARNING]  * Debugger is active!
+2025-09-03 13:10:18,004 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:10:21,173 [INFO] 192.168.10.83 - - [03/Sep/2025 13:10:21] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 13:11:23,160 [INFO] 192.168.10.83 - - [03/Sep/2025 13:11:23] "POST /upload HTTP/1.1" 200 -
+2025-09-03 13:11:25,303 [INFO] 192.168.10.83 - - [03/Sep/2025 13:11:25] "[33mPOST /nf/save HTTP/1.1[0m" 404 -
+2025-09-03 13:18:34,177 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 13:18:34,230 [INFO]  * Restarting with stat
+2025-09-03 13:18:34,711 [WARNING]  * Debugger is active!
+2025-09-03 13:18:34,720 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:31:23,656 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 13:31:23,656 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 13:31:23,657 [INFO]  * Restarting with stat
+2025-09-03 13:31:24,064 [WARNING]  * Debugger is active!
+2025-09-03 13:31:24,070 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:31:28,887 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 13:31:28,887 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 13:31:28,889 [INFO]  * Restarting with stat
+2025-09-03 13:31:29,314 [WARNING]  * Debugger is active!
+2025-09-03 13:31:29,320 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:33:52,308 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:33:52,437 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 13:33:52,438 [INFO] 192.168.10.83 - - [03/Sep/2025 13:33:52] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:33:52,731 [INFO] 192.168.10.83 - - [03/Sep/2025 13:33:52] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 13:33:59,443 [INFO] 192.168.10.83 - - [03/Sep/2025 13:33:59] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 13:34:32,022 [INFO] 192.168.10.83 - - [03/Sep/2025 13:34:32] "POST /upload HTTP/1.1" 200 -
+2025-09-03 13:34:34,122 [INFO] 192.168.10.83 - - [03/Sep/2025 13:34:34] "[35m[1mPOST /nf/save HTTP/1.1[0m" 201 -
+2025-09-03 13:34:35,258 [INFO] 192.168.10.83 - - [03/Sep/2025 13:34:35] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 13:38:45,591 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:38:47,645 [ERROR] Erro ao salvar log no banco: 2003 (HY000): Can't connect to MySQL server on '192.168.11.127:3306' (10061)
+2025-09-03 13:38:47,647 [INFO] 192.168.10.83 - - [03/Sep/2025 13:38:47] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:38:50,073 [INFO] 192.168.10.83 - - [03/Sep/2025 13:38:50] "[35m[1mGET /empresas HTTP/1.1[0m" 500 -
+2025-09-03 13:42:05,696 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:42:07,746 [ERROR] Erro ao salvar log no banco: 2003 (HY000): Can't connect to MySQL server on '192.168.11.127:3306' (10061)
+2025-09-03 13:42:07,747 [INFO] 192.168.10.83 - - [03/Sep/2025 13:42:07] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:42:09,983 [INFO] 192.168.10.83 - - [03/Sep/2025 13:42:09] "[35m[1mGET /empresas HTTP/1.1[0m" 500 -
+2025-09-03 13:43:31,377 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:43:33,415 [ERROR] Erro ao salvar log no banco: 2003 (HY000): Can't connect to MySQL server on '192.168.11.127:3306' (10061)
+2025-09-03 13:43:33,416 [INFO] 192.168.10.83 - - [03/Sep/2025 13:43:33] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:43:35,720 [INFO] 192.168.10.83 - - [03/Sep/2025 13:43:35] "[35m[1mGET /empresas HTTP/1.1[0m" 500 -
+2025-09-03 13:46:50,076 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\config.py', reloading
+2025-09-03 13:46:50,128 [INFO]  * Restarting with stat
+2025-09-03 13:46:50,585 [WARNING]  * Debugger is active!
+2025-09-03 13:46:50,592 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:46:51,611 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\config.py', reloading
+2025-09-03 13:46:51,697 [INFO]  * Restarting with stat
+2025-09-03 13:46:52,162 [WARNING]  * Debugger is active!
+2025-09-03 13:46:52,168 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:49:09,106 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:49:09,203 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 13:49:09,204 [INFO] 192.168.10.83 - - [03/Sep/2025 13:49:09] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:49:09,462 [INFO] 192.168.10.83 - - [03/Sep/2025 13:49:09] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 13:49:16,565 [INFO] 192.168.10.83 - - [03/Sep/2025 13:49:16] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 13:49:39,646 [INFO] ✅ Login ADMIN local OK
+2025-09-03 13:49:39,656 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 13:49:39,657 [INFO] 192.168.10.83 - - [03/Sep/2025 13:49:39] "POST /login HTTP/1.1" 200 -
+2025-09-03 13:49:39,856 [INFO] 192.168.10.83 - - [03/Sep/2025 13:49:39] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 13:50:19,773 [INFO] 192.168.10.83 - - [03/Sep/2025 13:50:19] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 13:51:04,762 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFId' doesn't have a default value
+2025-09-03 13:51:04,764 [INFO] 192.168.10.83 - - [03/Sep/2025 13:51:04] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 13:52:35,553 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFDtEmissao' doesn't have a default value
+2025-09-03 13:52:35,555 [INFO] 192.168.10.83 - - [03/Sep/2025 13:52:35] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 13:55:22,371 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 13:55:22,424 [INFO]  * Restarting with stat
+2025-09-03 13:55:22,852 [WARNING]  * Debugger is active!
+2025-09-03 13:55:22,859 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:55:23,881 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 13:55:23,947 [INFO]  * Restarting with stat
+2025-09-03 13:55:24,378 [WARNING]  * Debugger is active!
+2025-09-03 13:55:24,385 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 13:55:27,012 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFClienteId' doesn't have a default value
+2025-09-03 13:55:27,014 [INFO] 192.168.10.83 - - [03/Sep/2025 13:55:27] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 14:01:55,613 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:01:55,663 [INFO]  * Restarting with stat
+2025-09-03 14:01:56,117 [WARNING]  * Debugger is active!
+2025-09-03 14:01:56,124 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:02:02,074 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFClienteNome' doesn't have a default value
+2025-09-03 14:02:02,076 [INFO] 192.168.10.83 - - [03/Sep/2025 14:02:02] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 14:11:00,238 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:11:00,296 [INFO]  * Restarting with stat
+2025-09-03 14:11:00,747 [WARNING]  * Debugger is active!
+2025-09-03 14:11:00,754 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:11:11,781 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 14:11:11,782 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 14:11:11,784 [INFO]  * Restarting with stat
+2025-09-03 14:11:12,230 [WARNING]  * Debugger is active!
+2025-09-03 14:11:12,237 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:11:18,381 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 14:11:18,381 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 14:11:18,383 [INFO]  * Restarting with stat
+2025-09-03 14:11:18,830 [WARNING]  * Debugger is active!
+2025-09-03 14:11:18,838 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:11:50,286 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFClienteNome' doesn't have a default value
+2025-09-03 14:11:50,287 [INFO] 192.168.10.83 - - [03/Sep/2025 14:11:50] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 14:14:15,773 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:14:15,831 [INFO]  * Restarting with stat
+2025-09-03 14:14:16,294 [WARNING]  * Debugger is active!
+2025-09-03 14:14:16,301 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:16:15,020 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:16:15,092 [INFO]  * Restarting with stat
+2025-09-03 14:16:15,534 [WARNING]  * Debugger is active!
+2025-09-03 14:16:15,541 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:17:12,735 [INFO] ✅ Login ADMIN local OK
+2025-09-03 14:17:12,820 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 14:17:12,820 [INFO] 192.168.10.83 - - [03/Sep/2025 14:17:12] "POST /login HTTP/1.1" 200 -
+2025-09-03 14:17:13,006 [INFO] 192.168.10.83 - - [03/Sep/2025 14:17:13] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 14:17:18,432 [INFO] 192.168.10.83 - - [03/Sep/2025 14:17:18] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 14:17:40,468 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFNomeUsuario' doesn't have a default value
+2025-09-03 14:17:40,470 [INFO] 192.168.10.83 - - [03/Sep/2025 14:17:40] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 14:30:54,595 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:30:54,648 [INFO]  * Restarting with stat
+2025-09-03 14:30:55,079 [WARNING]  * Debugger is active!
+2025-09-03 14:30:55,086 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:31:37,819 [INFO] ✅ Login ADMIN local OK
+2025-09-03 14:31:37,901 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 14:31:37,902 [INFO] 192.168.10.83 - - [03/Sep/2025 14:31:37] "POST /login HTTP/1.1" 200 -
+2025-09-03 14:31:38,086 [INFO] 192.168.10.83 - - [03/Sep/2025 14:31:38] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 14:31:43,372 [INFO] 192.168.10.83 - - [03/Sep/2025 14:31:43] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 14:32:05,753 [ERROR] ❌ Erro ao salvar no banco: Not all parameters were used in the SQL statement
+2025-09-03 14:32:05,754 [INFO] 192.168.10.83 - - [03/Sep/2025 14:32:05] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 14:34:24,375 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:34:24,433 [INFO]  * Restarting with stat
+2025-09-03 14:34:24,891 [WARNING]  * Debugger is active!
+2025-09-03 14:34:24,898 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:34:57,984 [INFO] ✅ Login ADMIN local OK
+2025-09-03 14:34:58,078 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 14:34:58,079 [INFO] 192.168.10.83 - - [03/Sep/2025 14:34:58] "POST /login HTTP/1.1" 200 -
+2025-09-03 14:34:58,299 [INFO] 192.168.10.83 - - [03/Sep/2025 14:34:58] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 14:35:03,806 [INFO] 192.168.10.83 - - [03/Sep/2025 14:35:03] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 14:35:28,395 [ERROR] ❌ Erro ao salvar no banco: 1364 (HY000): Field 'CanhotoNFEmpresaNome' doesn't have a default value
+2025-09-03 14:35:28,397 [INFO] 192.168.10.83 - - [03/Sep/2025 14:35:28] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+2025-09-03 14:37:37,875 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:37:37,928 [INFO]  * Restarting with stat
+2025-09-03 14:37:38,361 [WARNING]  * Debugger is active!
+2025-09-03 14:37:38,368 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:38:14,226 [INFO] ✅ Login ADMIN local OK
+2025-09-03 14:38:14,312 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 14:38:14,313 [INFO] 192.168.10.83 - - [03/Sep/2025 14:38:14] "POST /login HTTP/1.1" 200 -
+2025-09-03 14:38:14,535 [INFO] 192.168.10.83 - - [03/Sep/2025 14:38:14] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 14:38:20,240 [INFO] 192.168.10.83 - - [03/Sep/2025 14:38:20] "GET /nf/67923/22 HTTP/1.1" 200 -
+2025-09-03 14:38:43,113 [INFO] 192.168.10.83 - - [03/Sep/2025 14:38:43] "POST /upload HTTP/1.1" 200 -
+2025-09-03 14:38:48,122 [ERROR] ❌ Erro ao salvar NF: Not all parameters were used in the SQL statement
+2025-09-03 14:38:48,123 [INFO] 192.168.10.83 - - [03/Sep/2025 14:38:48] "[35m[1mPOST /nf/save HTTP/1.1[0m" 500 -
+2025-09-03 14:43:14,191 [INFO]  * Detected change in 'C:\\Users\\bruno.guerra\\Documents\\ProjetoAppMobile\\API\\app.py', reloading
+2025-09-03 14:43:14,261 [INFO]  * Restarting with stat
+2025-09-03 14:44:45,724 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 14:44:45,724 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 14:44:45,726 [INFO]  * Restarting with stat
+2025-09-03 14:44:46,161 [WARNING]  * Debugger is active!
+2025-09-03 14:44:46,168 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 14:45:28,308 [INFO] ✅ Login ADMIN local OK
+2025-09-03 14:45:28,399 [ERROR] Erro ao salvar log no banco: 1146 (42S02): Table 'gniweb.logins' doesn't exist
+2025-09-03 14:45:28,400 [INFO] 192.168.10.83 - - [03/Sep/2025 14:45:28] "POST /login HTTP/1.1" 200 -
+2025-09-03 14:45:28,585 [INFO] 192.168.10.83 - - [03/Sep/2025 14:45:28] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 14:47:04,568 [INFO] 127.0.0.1 - - [03/Sep/2025 14:47:04] "[33mGET /files/{filename} HTTP/1.1[0m" 404 -
+2025-09-03 14:47:04,634 [INFO] 127.0.0.1 - - [03/Sep/2025 14:47:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-03 14:47:46,360 [INFO] 192.168.10.83 - - [03/Sep/2025 14:47:46] "GET /nf/67924/22 HTTP/1.1" 200 -
+2025-09-03 14:48:06,697 [INFO] 192.168.10.83 - - [03/Sep/2025 14:48:06] "POST /upload HTTP/1.1" 200 -
+2025-09-03 14:48:11,680 [INFO] 192.168.10.83 - - [03/Sep/2025 14:48:11] "[35m[1mPOST /nf/save HTTP/1.1[0m" 201 -
+2025-09-03 14:48:12,801 [INFO] 192.168.10.83 - - [03/Sep/2025 14:48:12] "GET /empresas HTTP/1.1" 200 -
+2025-09-03 15:39:32,315 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 15:39:32,315 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 15:39:32,316 [INFO]  * Restarting with stat
+2025-09-03 15:39:32,730 [WARNING]  * Debugger is active!
+2025-09-03 15:39:32,738 [INFO]  * Debugger PIN: 872-999-291
+2025-09-03 16:12:01,161 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-03 16:12:01,162 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-03 16:12:01,163 [INFO]  * Restarting with stat
+2025-09-03 16:12:01,654 [WARNING]  * Debugger is active!
+2025-09-03 16:12:01,662 [INFO]  * Debugger PIN: 872-999-291
+2025-09-04 07:40:00,326 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-04 07:40:00,327 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-04 07:40:00,329 [INFO]  * Restarting with stat
+2025-09-04 07:40:00,752 [WARNING]  * Debugger is active!
+2025-09-04 07:40:00,759 [INFO]  * Debugger PIN: 872-999-291
+2025-09-04 07:41:35,495 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.2:5000
+2025-09-04 07:41:35,496 [INFO] [33mPress CTRL+C to quit[0m
+2025-09-04 07:41:35,497 [INFO]  * Restarting with stat
+2025-09-04 07:41:35,911 [WARNING]  * Debugger is active!
+2025-09-04 07:41:35,919 [INFO]  * Debugger PIN: 872-999-291

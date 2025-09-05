@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 🔹 Permite salvar imagens na pasta de imagens padrão -->
+    <external-files-path
+        name="images"
+        path="Pictures"/>
+
+    <!-- 🔹 Permite salvar arquivos no cache do app -->
+    <external-cache-path
+        name="cache"
+        path=""/>
+
+    <!-- 🔹 (Opcional) Permite salvar em Downloads, se precisar -->
+    <external-path
+        name="external"
+        path="Download/"/>
+</paths>
